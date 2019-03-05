@@ -3,4 +3,4 @@ def using_while
 	while counter < 10 
 	puts "phrase" counter +=
 end
-end
+
